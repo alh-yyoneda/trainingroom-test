@@ -1,6 +1,6 @@
 package waku.doki.service.dao;
 
-public class RegstrationDao {
+public class RegistrationDao {
 	
 	public void insertUser() {
 		String sql = "insert into USER ("
