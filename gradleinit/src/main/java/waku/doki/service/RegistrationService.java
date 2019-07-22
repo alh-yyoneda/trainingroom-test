@@ -10,6 +10,5 @@ public class RegistrationService {
 	public int numCount(int i) {
 		String str = "Œ¤C‘O”¼‚¨”æ‚ê—l‚Å‚·";
 		return i + str.length();
-
 	}
 }
