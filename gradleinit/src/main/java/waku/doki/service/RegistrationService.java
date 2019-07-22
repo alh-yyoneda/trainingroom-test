@@ -6,4 +6,9 @@ public class RegistrationService {
 		String str = "Œ¤CŒã”¼Šæ’£‚è‚Ü‚µ‚å‚¤";
 		System.out.println(str);
 	}
+	public int numCount(int i) {
+		String str = "Œ¤C‘O”¼‚¨”æ‚ê—l‚Å‚·";
+		return i + str.length();
+
+	}
 }
