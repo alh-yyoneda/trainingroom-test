@@ -1,3 +1,7 @@
+## Gitの仕組み
+
+![](./img/git_contrivance.png)
+
 # ブランチ(branch)とは
 
 例えば、掲示板システムでは
@@ -88,3 +92,7 @@ Pull request successfully merged and closed
 今回の例でいうと`A_branch`となります。
 
 ブランチ削除は必要に応じて行ってください。
+
+
+
+git 用語集(https://qiita.com/toshi_um/items/72c9d929a600323b2e77)
